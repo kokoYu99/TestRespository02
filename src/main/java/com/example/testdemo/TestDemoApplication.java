@@ -9,6 +9,7 @@ public class TestDemoApplication {
 
     public static void main(String[] args) {
         System.out.println("启动SpringBoot程序");
+        System.out.println("sweet sexy savage");
         SpringApplication.run(TestDemoApplication.class, args);
     }
 
